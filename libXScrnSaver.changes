@@ -1,3 +1,6 @@
+* Tue Sep 18 2012 Marko Saukko <marko.saukko@jollamobile.com> - 1.2.2
+- Fixes MER#449: update libXScrnSaver to 1.2.2
+
 * Mon Jun 13 2011 Liu, Xinyun <xinyun.liu@intel.com> - 1.2.1
 - Updated to 1.2.1 and clean yaml
 

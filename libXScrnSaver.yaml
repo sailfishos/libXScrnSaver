@@ -2,7 +2,7 @@ Name: libXScrnSaver
 Summary: X.Org X11 libXss runtime library
 Description: |
     X11 Screen Saver extension client library
-Version: 1.2.1
+Version: 1.2.2
 Release: 1
 Group: System/Libraries
 License: MIT
@@ -11,6 +11,7 @@ Sources:
     - http://xorg.freedesktop.org/releases/individual/lib/%{name}-%{version}.tar.bz2
 
 PkgConfigBR:
+    - xorg-macros >= 1.8
     - x11
     - xext
     - scrnsaverproto >= 1.2
